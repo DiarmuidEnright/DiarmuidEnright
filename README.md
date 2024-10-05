@@ -13,7 +13,7 @@ I'm Diarmuid, a passionate Data Science student with a strong background in avio
 - Machine Learning and Predictive Modeling
 - Programming proficiencies: Python, R, SQL, C, C#, Java
 - Frameworks proficiency: Jax, PyTorch, Tensorflow, Scikit-learn, Keras, Django, Kubernates, Docker, Power BI, Tableau
-- interest in Statistical Analysis and Mathematical Modelling research areas
+- Statistical Analysis and Mathematical Modelling research
 
 ## Current Projects 🔬
   
