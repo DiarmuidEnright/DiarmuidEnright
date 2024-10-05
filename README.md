@@ -5,8 +5,7 @@ I'm Diarmuid, a passionate Data Science student with a strong background in avio
 ## About Me
 
 - **Education:** Data Science Student
-- **Current position:**
-- Avionics Lead at a rocket propulsion lab based in University College Cork
+- **Current position:**Avionics Lead at a rocket propulsion lab based in University College Cork
 
 ## Areas of Expertise
 
@@ -18,16 +17,10 @@ I'm Diarmuid, a passionate Data Science student with a strong background in avio
 
 ## Current Projects
   
-- **Working on this** Currently applying my skills in data analysis and visualization to provide actionable insights in the finance sector - Anything that I do will be posed here so watch out!
+- **Working on this:** Currently applying my skills in data analysis and visualization to provide actionable insights in the finance sector - Anything that I do will be posted here so watch out!
 
 ## Connect with Me
 
 Feel free to reach out for collaboration or just to connect!
 
 - [LinkedIn](https://www.linkedin.com/in/diarmuid-enright-525375257/)
-
-## My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-Thank you for visiting my profile! I look forward to connecting with you and collaborating on exciting projects.
