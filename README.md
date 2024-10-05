@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Diarmuid, a passionate Data Science student with a strong background in avionics software and a keen interest in leveraging machine learning to solve real-world problems.
+I'm Diarmuid, a passionate Data Science and Analytics student with a strong background in avionics software development and a keen interest in leveraging machine learning to solve real-world problems.
 
 ## About Me 📚
 
