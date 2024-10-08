@@ -8,10 +8,10 @@
     This is me <b>Diarmuid Enright</b>, a passionate <b>Data Science and Analytics</b> student from <a href="https://www.ucc.ie/"> <b>University College Cork</b>, Ireland</a>.
     A driven <b>Machine Learning Enthusiast</b> with a background in <b>Avionics Software Development</b>, now focused on solving real-world problems through data-driven insights.
   <br>
-  <b><i>"---Striving to make data-driven decisions impactful---"</i></b>
+  <b><i>"Striving to make data-driven decisions impactful"</i></b>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3>What I do! 🧑</h3>
 
 - 🧑‍🚀 I’m the current Avionics Lead at the Rocket Propulsion Lab at UCC.
 - 🔭 Currently exploring applications of data science in the finance industry.
@@ -24,7 +24,7 @@
 
 <details>
 <summary>
-  ✨ Tech stack currently using:
+  ✨  Current frameworks:
 </summary>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
@@ -45,7 +45,6 @@
    <br>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 </details>
 <br>
 
