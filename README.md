@@ -51,8 +51,6 @@
 ---
 
 <details open="">
-<summary>
-<br>
 </details>
 
 ---
