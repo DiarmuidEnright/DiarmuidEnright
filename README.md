@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Diarmuid Enright</h1>
 <p align="center">
-  <a href="https://github.com/DiarmuidEnright/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Analytics+Student;Machine+Learning+Enthusiast;Ex-Avionics+Software+Lead;Always+Learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DiarmuidEnright/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Analytics+Student;Deep+Learning+Enthusiast;Avionics+Software+Lead;Always+Learning&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
