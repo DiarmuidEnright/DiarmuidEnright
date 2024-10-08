@@ -50,7 +50,6 @@
 
 ---
 
-<details open="">
 </details>
 
 ---
