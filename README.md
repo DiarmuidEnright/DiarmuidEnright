@@ -1,26 +1,85 @@
-### Hello there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Diarmuid Enright</h1>
+<p align="center">
+  <a href="https://github.com/DiarmuidEnright/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Analytics+Student;Machine+Learning+Enthusiast;Ex-Avionics+Software+Lead;Always+Learning&center=true&width=500&height=50"></a>
+</p>
 
-I'm Diarmuid, a passionate Data Science and Analytics student with a strong background in avionics software development and a keen interest in leveraging machine learning to solve real-world problems.
+<p align="center">
+  <em>
+    This is me <b>Diarmuid Enright</b>, a passionate <b>Data Science and Analytics</b> student from <a href="https://www.ucc.ie/"> <b>University College Cork</b>, Ireland</a>.
+    A driven <b>Machine Learning Enthusiast</b> with a background in <b>Avionics Software Development</b>, now focused on solving real-world problems through data-driven insights.
+  <br>
+  <b><i>"---Striving to make data-driven decisions impactful---"</i></b>
+</p>
 
-## About Me 📚
+<h3>Little facts about me 🧑</h3>
 
-- **Education:** Data Science and Analytics Student at University College Cork
-- **Current position:** Avionics Lead at a rocket propulsion lab based in University College Cork
+- 🧑‍🚀 I’m the current Avionics Lead at the Rocket Propulsion Lab at UCC.
+- 🔭 Currently exploring applications of data science in the finance industry.
+- 💻 Focused on improving my skills in machine learning and data visualization.
+- 💡 I’m always open to collaboration on innovative data projects.
+- ⚡ Fun fact: I love pushing boundries and developing tech-driven solutions.
+<br>
 
-## Areas of Expertise 💡
+---
 
-- Data Analysis and Visualization
-- Machine Learning and Predictive Modeling
-- Programming proficiencies: Python, R, SQL, C, C#, Java
-- Frameworks proficiency: Jax, PyTorch, Tensorflow, Scikit-learn, Keras, Django, Kubernates, Docker, Power BI, Tableau
-- Statistical Analysis and Mathematical Modelling research
+<details>
+<summary>
+  ✨ Tech stack currently using:
+</summary>
+   <br>
+<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+<code><a href="https://www.r-project.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></a></code>
+<code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_sql/microsoft_sql-icon.svg"></a></code>
+<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
+<code><a href="https://kubernetes.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
+<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
+<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
+<code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"></a></code>
+<code><a href="https://www.tableau.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg"></a></code>
+</details>
+<br>
 
-## Current Projects 🔬
-  
-- **Working on this:** Currently applying my skills in data analysis and visualization to provide actionable insights in the finance sector - Anything that I do will be posted here so watch out!
+<details>
+<summary>
+  🌱 Looking forward to learning:
+</summary>
+   <br>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
+</details>
+<br>
 
-## Connect with Me 🔗
+---
 
-Feel free to reach out for collaboration or just to connect!
+<details open="">
+<summary>
+ 📔 GitHub Stats:
+</summary>
+<br>
+<p align="center">
+  <a href="https://github.com/DiarmuidEnright">
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=DiarmuidEnright&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/DiarmuidEnright">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiarmuidEnright&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DiarmuidEnright&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="DiarmuidEnright" /></p>
+</details>
 
-- [LinkedIn](https://www.linkedin.com/in/diarmuid-enright-525375257/)
+---
+
+<h4> Connect with me 🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/in/diarmuid-enright-525375257/">
+   <img align="left" alt="Diarmuid Enright | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:diarmuidenright@gmail.com">
+    <img align="left" alt="Diarmuid Enright | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+</details>
+
+<p align="right" > Created with 🖤 by <a href="https://github.com/DiarmuidEnright">Diarmuid Enright</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=DiarmuidEnright&label=Profile%20views&color=0e75b6&style=flat" alt="DiarmuidEnright" /> </p>
