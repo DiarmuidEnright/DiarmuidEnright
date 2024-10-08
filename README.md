@@ -29,14 +29,12 @@
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.r-project.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></a></code>
-<code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_sql/microsoft_sql-icon.svg"></a></code>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <code><a href="https://kubernetes.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
 <code><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"></a></code>
-<code><a href="https://www.tableau.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg"></a></code>
 </details>
 <br>
 
