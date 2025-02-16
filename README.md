@@ -69,8 +69,6 @@
 <details>
 <summary>
   ✨  Proficiencies:
-<summary>
-  
    <br>
    <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
    <code><a href="https://www.r-project.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></a></code>
