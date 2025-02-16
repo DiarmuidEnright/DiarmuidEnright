@@ -14,7 +14,7 @@
 <h3>What I get up to:</h3>
 
 -  I’m the current Avionics Lead at the Rocket Propulsion Lab at UCC 🚀
--  Currently exploring applications of deep learning models in the finance industry 📈
+-  Currently looking into HFT in rust 📈
 -  Focused on improving my skills in machine learning and data visualization 💻
 -  Always looking to collaborate on innovative projects to push the boundries of what I know 💡
 <br>
@@ -45,9 +45,9 @@
   - **Data Analysis and Visualization**
   - **Machine Learning and Predictive Modeling**
   - **Programming Proficiencies:**
-    - Python, R, SQL, C, C#, Java
+    - Python, R, SQL, C, C#, Java, Rust
   - **Frameworks Proficiency:**
-    - Jax, PyTorch, Tensorflow, Scikit-learn, Keras, Django, Kubernetes, Docker, Power BI, Tableau
+    - Jax, PyTorch, Tensorflow, Scikit-learn, Keras, Django, Kubernetes, Docker, Power BI, Tableau, Barter
   - **Statistical Analysis and Mathematical Modelling Research**
 
 </details>
