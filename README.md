@@ -69,6 +69,7 @@
 <details>
 <summary>
   ✨  Proficiencies:
+</summary>
    <br>
    <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
    <code><a href="https://www.r-project.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></a></code>
@@ -80,7 +81,6 @@
    <code><a href="https://kubernetes.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
    <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
    <code><a href="https://www.rust-lang.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"></a></code>
-</summary>
 
 </details>
 
