@@ -17,6 +17,7 @@
 -  Currently looking into HFT in rust 📈
 -  Focused on improving my skills in machine learning and data visualization 💻
 -  Always looking to collaborate on innovative projects to push the boundries of what I know 💡
+-  Currently exploring options for the Spring-Fall season
 <br>
 
 
