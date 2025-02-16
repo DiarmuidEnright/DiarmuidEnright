@@ -8,7 +8,6 @@
   <em>
     A passionate <b>Data Science and Analytics</b> student from <a href="https://www.ucc.ie/"> <b>University College Cork</b>, Ireland</a> and driven <b>Machine Learning Enthusiast</b> with a background in <b>Avionics Software Development</b>, now focused on solving real-world problems through data-driven insights.
   <br>
-  <b><i>"Striving to make data-driven decisions impactful"</i></b>
 </p>
 
 <h3>What I get up to:</h3>
