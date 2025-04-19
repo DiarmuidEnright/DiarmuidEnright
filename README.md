@@ -28,10 +28,12 @@
 
   - **Education:**
     - Data Science and Analytics Student at University College Cork [1:1]
-  - **Current Position:**
+  - **Current Positions:**
     - Avionics Lead at a rocket propulsion lab based in University College Cork
   - **Academic Officer:**
-    - Data science and Analytics society in University College Cork
+    - Data science and Analytics Society in University College Cork
+  - **Head Systems Admin:**
+    - Computer Science Society in University College Cork
     
 
 </details>
