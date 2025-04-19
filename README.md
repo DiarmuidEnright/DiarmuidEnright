@@ -12,7 +12,7 @@
 
 <h3>What I get up to:</h3>
 
--  I’m the current Avionics Lead at the Rocket Propulsion Lab at UCC 🚀
+-  I’m the current Avionics Lead at the Rocket Propulsion Lab at UCCRPL and Head Sys Admin for the CSsoc 🚀
 -  Currently looking into HFT in rust 📈
 -  Focused on improving my skills in machine learning and data visualization 💻
 -  Always looking to collaborate on innovative projects to push the boundries of what I know 💡
