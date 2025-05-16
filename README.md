@@ -28,12 +28,14 @@
 
   - **Education:**
     - Data Science and Analytics Student at University College Cork [1:1]
-  - **Current Positions:**
-    - Avionics Lead at a rocket propulsion lab based in University College Cork
+  - **Current Position(s):**
+    - Avionics Software Lead at University College Cork Rocket Propulsion Lab
   - **Academic Officer:**
     - Data science and Analytics Society in University College Cork
   - **Head Systems Admin:**
     - Computer Science Society in University College Cork
+  - **Data Engineer**
+    - Working on the startup Coursebuddy out of Trinity
     
 
 </details>
