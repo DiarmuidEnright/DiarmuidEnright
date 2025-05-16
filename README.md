@@ -12,10 +12,10 @@
 
 <h3>What I get up to:</h3>
 
--  I’m the current Avionics Lead at the Rocket Propulsion Lab at UCCRPL and Head Sys Admin for the CSsoc 🚀
--  Currently looking into HFT in rust 📈
--  Focused on improving my skills in machine learning and data visualization 💻
--  Always looking to collaborate on innovative projects to push the boundries of what I know 💡
+-  I’m the current Head Sys Admin for the CSsoc Avionics Lead at UCCRPL and Data engineer at Coursebuddy
+-  Currently looking into HFT in rust and concurrency
+-  Focused on improving my skills in machine learning and data visualization
+-  Always looking to collaborate on innovative projects to push the boundries of what I know
 -  Currently exploring options for the Spring-Fall season
 <br>
 
