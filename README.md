@@ -59,7 +59,7 @@
    <br>
 
   - **Currently Working On:**
-    - Applying my skills in data analysis and visualization to provide actionable insights in the finance sector.
+    - Trying to find something relevent in the field of machine learning that actually uses rust and/or topology.
     - Anything that I do will be posted here, so watch out!
 
 </details>
