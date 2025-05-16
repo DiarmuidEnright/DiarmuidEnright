@@ -21,22 +21,18 @@
 
 
 <details>
-<summary>
-  ✨  About Me:
-</summary>
-   <br>
+<summary>✨ About Me</summary>
 
-  - **Education:**
-    - Data Science and Analytics Student at University College Cork [1:1]
-  - **Current Position(s):**
-    - Avionics Software Lead at University College Cork Rocket Propulsion Lab
-  - **Academic Officer:**
-    - Data science and Analytics Society in University College Cork
-  - **Head Systems Admin:**
-    - Computer Science Society in University College Cork
-  - **Data Engineer**
-    - Working on the startup Coursebuddy out of Trinity
-    
+<br>
+
+- **Education:**  
+  - *Data Science and Analytics Student at University College Cork (1:1)*
+
+- **Current Position(s):**  
+  - **Avionics Software Lead** — UCC Rocket Propulsion Lab  
+  - **Academic Officer** — Data Science and Analytics Society, UCC  
+  - **Head Systems Admin** — Computer Science Society, UCC  
+  - **Data Engineer** — Coursebuddy (Trinity College Dublin-based startup)
 
 </details>
 
