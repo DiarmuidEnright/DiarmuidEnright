@@ -12,7 +12,7 @@
 
 <h3>What I get up to:</h3>
 
--  I’m the current Head Sys Admin for the CSsoc Avionics Lead at UCCRPL and Data engineer at Coursebuddy
+-  I’m the current Head Sys Admin for the CSsoc, Avionics Lead at UCCRPL and Data engineer at Coursebuddy
 -  Currently looking into HFT in rust and concurrency
 -  Focused on improving my skills in machine learning and data visualization
 -  Always looking to collaborate on innovative projects to push the boundries of what I know
@@ -47,9 +47,9 @@
   - **Data Analysis and Visualization**
   - **Machine Learning and Predictive Modeling**
   - **Programming Proficiencies:**
-    - Python, R, SQL, C, C#, Java, Rust
+    - Rust, Python, R, SQL, C, C#, Java
   - **Frameworks Proficiency:**
-    - Jax, PyTorch, Tensorflow, Scikit-learn, Keras, Django, Kubernetes, Docker, Power BI, Tableau, Barter
+    - Jax, PyTorch, Tensorflow, Scikit-learn, Keras, Django, Kubernetes, Docker, Power BI, Tableau, Barter, Async and Tokio
   - **Statistical Analysis and Mathematical Modelling Research**
 
 </details>
