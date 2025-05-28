@@ -12,11 +12,11 @@
 
 <h3>What I get up to:</h3>
 
+- SWE @ Huawei
 -  I’m the current Head Sys Admin for the CSsoc, Avionics Lead at UCCRPL and Data engineer at Coursebuddy
 -  Currently looking into HFT in rust and concurrency
 -  Focused on improving my skills in machine learning and data visualization
 -  Always looking to collaborate on innovative projects to push the boundries of what I know
--  Currently exploring options for the Spring-Fall season
 <br>
 
 
@@ -28,7 +28,8 @@
 - **Education:**  
   - *Data Science and Analytics Student at University College Cork (1:1)*
 
-- **Current Position(s):**  
+- **Current Position(s):**
+  - **Jr Software Engineer** - Huawei, Dublin, Ireland
   - **Avionics Software Lead** — UCC Rocket Propulsion Lab  
   - **Academic Officer** — Data Science and Analytics Society, UCC  
   - **Head Systems Admin** — Computer Science Society, UCC  
