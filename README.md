@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Diarmuid Enright</h1>
 
 <p align="center">
-  <a href="https://github.com/DiarmuidEnright/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Analytics+Student;Avionics+Software+Lead;Always+Learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DiarmuidEnright/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Analytics+Student;Data+Engineer;Always+Learning&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 <h3>What I get up to:</h3>
 
 - SWE @ Huawei
--  I’m the current Head Sys Admin for the CSsoc, Avionics Lead at UCCRPL and Data engineer at Coursebuddy
+-  I’m the current Head Sys Admin for the UCC CSsoc
 -  Currently looking into HFT in rust and concurrency
 -  Focused on improving my skills in machine learning and data visualization
--  Always looking to collaborate on innovative projects to push the boundries of what I know
+-  Always looking to collaborate on innovative projects
 <br>
 
 
