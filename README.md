@@ -12,10 +12,10 @@
 
 <h3>What I get up to:</h3>
 
-- SWE @ Huawei
--  I’m the current Head Sys Admin for the UCC CSsoc
--  Currently looking into HFT in rust and concurrency
--  Focused on improving my skills in machine learning and data visualization
+-  SWE @ Huawei
+-  Head Sys Admin for the UCC CSsoc
+-  Using FDAP right now
+-  Focused on improving my skills in ML and systems development
 -  Always looking to collaborate on innovative projects
 <br>
 
