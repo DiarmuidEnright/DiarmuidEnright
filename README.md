@@ -21,7 +21,7 @@
 
 
 <details>
-<summary>✨ About Me</summary>
+<summary>About Me</summary>
 
 <br>
 
@@ -39,7 +39,7 @@
 
 <details>
 <summary>
-  ✨  Areas of Expertise:
+  Areas of Expertise:
 </summary>
    <br>
 
@@ -55,7 +55,7 @@
 
 <details>
 <summary>
-  ✨  Interesting Projects:
+  Interesting Projects:
 </summary>
    <br>
 
@@ -68,7 +68,7 @@
 
 <details>
 <summary>
-  ✨  Proficiencies:
+  Proficiencies:
 </summary>
    <br>
    <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
