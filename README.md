@@ -13,10 +13,9 @@
 <h3>What I get up to:</h3>
 
 -  SWE @ Huawei
--  Head Sys Admin for the UCC CSsoc
--  Using FDAP right now
--  Focused on improving my skills in ML and systems development
--  Always looking to collaborate on innovative projects
+-  Head SysAdmin for the UCC CSsoc
+-  FDAP
+-  Always looking to collaborate on something
 <br>
 
 
