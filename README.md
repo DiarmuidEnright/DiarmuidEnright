@@ -12,9 +12,9 @@
 
 <h3>What I get up to:</h3>
 
--  SWE @ Huawei
+-  SWE @ Huawei & Incoming SDE @ AWS
 -  Head SysAdmin for the UCC CSsoc
--  FDAP
+-  FDAP Enjoyer
 -  Always looking to collaborate on something
 <br>
 
