@@ -12,7 +12,7 @@
 
 <h3>What I get up to:</h3>
 
--  AI/ML @ Huawei & Incoming SDE @ AWS
+-  SDE Intern @ AWS | prev AI/ML @ Huawei
 -  Head SysAdmin for the UCC CSsoc
 -  FDAP Enjoyer
 -  Always looking to collaborate on something
