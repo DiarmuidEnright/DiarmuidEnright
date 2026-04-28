@@ -15,7 +15,6 @@
 -  SDE @ AWS | prev AI/ML @ Huawei
 -  Head SysAdmin for the UCC CSsoc
 -  FDAP Enjoyer
--  Always looking to collaborate on something
 <br>
 
 
@@ -27,7 +26,8 @@
 - **Education:**  
   - *Data Science and Analytics Student at University College Cork (1:1)*
 
-- **Current Position(s):**
+- **CPosition(s):**
+  - **SDE intern** - AWS, Dublin, Ireland
   - **Jr Software Engineer** - Huawei, Dublin, Ireland
   - **Avionics Software Lead** — UCC Rocket Propulsion Lab  
   - **Academic Officer** — Data Science and Analytics Society, UCC  
