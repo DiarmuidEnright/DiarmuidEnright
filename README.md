@@ -27,7 +27,7 @@
   - *Data Science and Analytics Student at University College Cork (1:1)*
 
 - **Position(s):**
-  - **Incoming Undergraduate Research Intern** - Meta, Palo Alto, California, USA
+  - **Incoming Undergraduate Research Fellow** - Meta, Palo Alto, California, USA
   - **SDE intern** - AWS, Dublin, Ireland
   - **Jr Software Engineer** - Huawei, Dublin, Ireland
   - **Avionics Software Lead** — UCC Rocket Propulsion Lab  
