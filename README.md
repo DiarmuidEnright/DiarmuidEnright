@@ -10,10 +10,10 @@
   <br>
 </p>
 
-<h3>What I get up to:</h3>
+<h3>What I have been getting up to:</h3>
 
--  SDE @ AWS | prev AI/ML @ Huawei
--  Head SysAdmin for the UCC CSsoc
+-  Incoming Undergraduate Research Fellow @ Meta | SDE intern @ AWS | prev Junior Software Engineer @ Huawei
+-  Head SysAdmin for the UCC Computer Science Society
 -  FDAP Enjoyer
 <br>
 
@@ -26,7 +26,8 @@
 - **Education:**  
   - *Data Science and Analytics Student at University College Cork (1:1)*
 
-- **CPosition(s):**
+- **Position(s):**
+  - **Incoming Undergraduate Research Intern** - Meta, Palo Alto, California, USA
   - **SDE intern** - AWS, Dublin, Ireland
   - **Jr Software Engineer** - Huawei, Dublin, Ireland
   - **Avionics Software Lead** — UCC Rocket Propulsion Lab  
