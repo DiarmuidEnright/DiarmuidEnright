@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    A passionate <b>Data Science and Analytics</b> student from <a href="https://www.ucc.ie/"> <b>University College Cork</b>, Ireland</a> and driven <b>Machine Learning Enthusiast</b> with a background in <b>Concurrency and Optimization</b>
+    A passionate <b>Data Science and Artifical Intelligence</b> student from <a href="https://www.ucc.ie/"> <b>University College Cork</b>, Ireland</a> and driven <b>Machine Learning Enthusiast</b> with a background in <b>Concurrency and Optimization</b>
   <br>
 </p>
 
