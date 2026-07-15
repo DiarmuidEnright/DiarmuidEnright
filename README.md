@@ -12,7 +12,7 @@
 
 <h3>What I have been getting up to:</h3>
 
--  Incoming Undergraduate Research Fellow @ Meta | SDE intern @ AWS | Research Engineer @ Huawei
+-  Incoming Fellow @ Meta | SDE intern @ AWS | Research Engineer @ Huawei
 -  Head SysAdmin for the UCC Computer Science Society
 -  FDAP Enjoyer
 <br>
