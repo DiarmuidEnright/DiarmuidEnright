@@ -33,18 +33,9 @@
 
 </details>
 
-<details>
-<summary>
-  Areas of Expertise:
-</summary>
-   <br>
-
 
 </details>
 
-<details>
-<summary>
-  Interesting Projects:
 </summary>
    <br>
 
