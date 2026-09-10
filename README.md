@@ -6,15 +6,14 @@
 
 <p align="center">
   <em>
-    A passionate <b>Data Science and Artifical Intelligence</b> student from <a href="https://www.ucc.ie/"> <b>University College Cork</b>, Ireland</a> and driven <b>Machine Learning Enthusiast</b> with a background in <b>Concurrency and Optimization</b>
+    <b>Data Science and Artifical Intelligence</b> student from <a href="https://www.ucc.ie/"> <b>University College Cork</b>, Ireland</a> and driven <b>Machine Learning Enthusiast</b> with a background in <b>Concurrency and Optimization</b>
   <br>
 </p>
 
 <h3>What I have been getting up to:</h3>
 
--  Incoming Fellow @ Meta | SDE intern @ AWS | Research Engineer @ Huawei
+-  Fellow @ Meta | prev SDE intern @ AWS & Research Engineer @ Huawei
 -  Head SysAdmin for the UCC Computer Science Society
--  FDAP Enjoyer
 <br>
 
 
