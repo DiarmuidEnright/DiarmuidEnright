@@ -17,11 +17,6 @@
 <br>
 
 
-<details>
-<summary>About Me</summary>
-
-<br>
-
 - **Education:**  
   - *Data Science and Analytics Student at University College Cork (1:1)*
 
