@@ -26,13 +26,10 @@
   - *Data Science and Analytics Student at University College Cork (1:1)*
 
 - **Position(s):**
-  - **Incoming Undergraduate Research Fellow** - Meta, Menlo Park, California, USA
+  - **Undergraduate Research Fellow** - Meta, Menlo Park, California, USA
   - **SDE intern** - AWS, Dublin, Ireland
-  - **Jr Software Engineer** - Huawei, Dublin, Ireland
-  - **Avionics Software Lead** — UCC Rocket Propulsion Lab  
-  - **Academic Officer** — Data Science and Analytics Society, UCC  
-  - **Head Systems Admin** — Computer Science Society, UCC  
-  - **Data Engineer** — Coursebuddy (Trinity College Dublin-based startup)
+  - **Research Engineer** - Huawei Research, Dublin, Ireland  
+  - **Head SysAdmin** — Computer Science Society, UCC  
 
 </details>
 
@@ -42,13 +39,6 @@
 </summary>
    <br>
 
-  - **Data Analysis and Visualization**
-  - **Machine Learning and Predictive Modeling**
-  - **Programming Proficiencies:**
-    - Rust, Python, R, SQL, C, C#, Java
-  - **Frameworks Proficiency:**
-    - Jax, PyTorch, Tensorflow, Scikit-learn, Keras, Django, Kubernetes, Docker, Power BI, Tableau, Barter, Async and Tokio
-  - **Statistical Analysis and Mathematical Modelling Research**
 
 </details>
 
@@ -59,7 +49,7 @@
    <br>
 
   - **Currently Working On:**
-    - Trying to find something relevent in the field of machine learning that actually uses rust and/or topology.
+    - Trying to find something relevent to work on, reach out if you are working on something you think I might like
     - Anything that I do will be posted here, so watch out!
 
 </details>
